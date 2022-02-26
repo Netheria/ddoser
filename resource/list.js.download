@@ -1,0 +1,4 @@
+var targets = [
+'https://ria.ru/',
+'http://kremlin.ru/'
+];
