@@ -1,0 +1,2 @@
+# ddoser
+DDOSing script
